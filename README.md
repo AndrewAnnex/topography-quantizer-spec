@@ -39,11 +39,11 @@ Below are several example quantizers for the four inner rocky planets and the ea
 ```json
     {
       "body": "anyrock",
-      "min": -12000.0,
-      "resolution": 0.00204682,
-      "rScaler": 134.14039552,
-      "gScaler": 0.52398592,
-      "bScaler": 0.00204682
+      "min": -24000.0,
+      "resolution": 0.00288963,
+      "rScaler": 189.37479168,
+      "gScaler": 0.73974528,
+      "bScaler": 0.00288963
     },
     {
       "body": "mercury",
